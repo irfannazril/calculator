@@ -15,6 +15,7 @@ body.light {
   background: #f8f8f8;
 }
 .container {
+  margin: 30px;
   position: relative;
   min-width: 300px;
   min-height: 400px;
